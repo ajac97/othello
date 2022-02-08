@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OthelloTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-03-18T17:00:51" hostname="DESKTOP-MHQU14D" time="0.034">
+  <properties/>
+  <testcase name="noMoveAvailableTest" classname="OthelloTest" time="0.006"/>
+  <testcase name="flippableTwoPieces" classname="OthelloTest" time="0.001"/>
+  <testcase name="computerGoTest" classname="OthelloTest" time="0.026"/>
+  <testcase name="flippableNotLegal" classname="OthelloTest" time="0.0"/>
+  <testcase name="switchPlayersTest" classname="OthelloTest" time="0.001"/>
+  <testcase name="flippableOnePiece" classname="OthelloTest" time="0.0"/>
+  <testcase name="flipTest" classname="OthelloTest" time="0.0"/>
+  <system-out><![CDATA[java.awt.Point[x=6,y=0]
+java.awt.Point[x=5,y=0]
+java.awt.Point[x=4,y=0]
+java.awt.Point[x=3,y=0]
+java.awt.Point[x=2,y=0]
+java.awt.Point[x=1,y=0]
+java.awt.Point[x=7,y=0]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
